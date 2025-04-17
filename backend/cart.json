@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "aaaaa",
+    "size": "L",
+    "quantity": 1
+  },
+  {
+    "itemId": "123",
+    "itemName": "Laptop",
+    "quantity": 1,
+    "price": 999.99
+  }
+]
